@@ -6,6 +6,6 @@ The [SoS Polyglot notebooks](https://vatlab.github.io/sos-docs/) "E55_Analysis.i
 * Highly Variable Genes identification
 * Iterative cell clustering
 * Computation of marker genes for each cluster
-* Diffusion pseudotime analysis for Anterior Visceral Endoderm (AVE) and EmVE cells
+* Diffusion pseudotime analysis for Anterior Visceral Endoderm (AVE) and emVE cells
 
-The python3 Jupyter notebook "RNA_velo_Analysis.ipynb" includes the RNA velocity analysis on AVE and Epi-VE cells, performed with the [scvelo](https://scvelo.readthedocs.io) implementation, at the stages E5.5 and E6.25, both separated and integrated.
+The python3 Jupyter notebook "RNA_velo_Analysis.ipynb" includes the RNA velocity analysis on AVE and emVE cells, performed with the [scvelo](https://scvelo.readthedocs.io) implementation, at the stages E5.5 and E6.25, both separated and integrated.
